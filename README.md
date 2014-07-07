@@ -1,4 +1,4 @@
-gui
+ugi
 ===
 
-Grid User Interface
+Universal Grid User Interface
